@@ -4,6 +4,7 @@ namespace CodeSuperHero.UF
 {
     public interface ILog
     {
+        string logName { get; }
         bool output { get; set; }
 
         void LogNormal(object info);
