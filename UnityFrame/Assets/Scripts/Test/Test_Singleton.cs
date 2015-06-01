@@ -10,7 +10,7 @@ public class Test_Singleton : MonoBehaviour
     ILog test_singletonLog;
     void Start()
     {
-        test_singletonLog = DebugLog.GetLog("test_singletonLog", Log.LOG_COLOR_GREEN);
+        test_singletonLog = LogFactory.GetLog("test_singletonLog", Log.LOG_COLOR_GREEN);
 
         test_smono = Test_SingletonMono.instance;
         test_smono.Func();
