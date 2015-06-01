@@ -1,5 +1,4 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿//CodeSuperHero 20150602
 
 namespace CodeSuperHero.UF
 {
