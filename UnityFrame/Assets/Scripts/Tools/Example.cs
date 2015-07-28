@@ -63,7 +63,7 @@ namespace CodeSuperHero.UF
         /// <summary>
         /// 保护变量与私有变量一样
         /// </summary>
-        protected int mOneExample = 1;
+        protected int _neExample = 1;
  
         /// <summary>
         /// 公有变量首字母小写，其余单词首字母大写
