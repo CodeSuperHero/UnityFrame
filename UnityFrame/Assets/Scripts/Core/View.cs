@@ -5,7 +5,5 @@ namespace CodeSuperHero.UF
     public class View
     {
 
-
     }
 }
-

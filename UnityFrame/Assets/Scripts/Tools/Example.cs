@@ -23,6 +23,7 @@ namespace CodeSuperHero.UF
     /// </summary>
     public struct SExample
     {
+        
     }
 
     /// <summary>
